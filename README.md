@@ -7,7 +7,7 @@ Um projeto de teste com um rquivo README 🚀
 <!-- Inserindo um GIF, através do ScreenToGif -->
 [<img src="./tela.gif" alt="Gif da tela inicial do projeto">](https://google.com)
 
-<!-- Sessão de Subtítulo com marcadores de lista -->
+<!-- Sessão de Subtítulo com marcadores de listas -->
 ## Tecnologias utilizadas
 
 - HTML
